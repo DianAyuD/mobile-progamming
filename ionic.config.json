@@ -1,0 +1,7 @@
+{
+  "name": "ktp nfc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
